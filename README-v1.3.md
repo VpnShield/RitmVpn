@@ -1,7 +1,7 @@
 {
 "Title": "اطلاع رسانی",
 "Description": "این پیام برای فشاری شدن امیر التر است 😂",
-"Link": "tg://resolve?domin=Vpn_Shield",
+"Link": "tg://resolve?domain=Vpn_Shield",
 "Color": "#3086eb",
 "ColorBackGround": "#ff2f3032",
 "ColorMessage": "#ffffff",
