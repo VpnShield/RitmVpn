@@ -12,5 +12,5 @@
 "MessageID": "3",
 "ShowTime": "1",
 "Button": "عضو شدن",
-"Show": "on"
+"Show": "off"
 }
