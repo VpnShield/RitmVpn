@@ -7,7 +7,7 @@
 "ColorMessage": "#ffffff",
 "ColorTitle": "#ffffff",
 "ColorBtn": "#ffffff",
-"Cancellable": "false",
+"Cancellable": "True",
 "TopStr": "♡",
 "MessageID": "3",
 "ShowTime": "1",
