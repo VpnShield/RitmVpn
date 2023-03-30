@@ -12,5 +12,5 @@
 "MessageID": "100",
 "ShowTime": "999999999",
 "Button": "عضویت فوری",
-"Show": "on"
+"Show": "off"
 }
